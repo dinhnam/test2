@@ -1,2 +1,2 @@
 
-puts "cai nay nam o nhanh 2 "
+puts "da duoc sua doi  "
